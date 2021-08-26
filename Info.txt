@@ -1,0 +1,14 @@
+Sumar binario
+XOR
+
+clase 9 primer parcial
+clase 15 segundo parcial
+
+
+Analista funcional
+-Definir y analizar requeriemientos de usuarios (genera casos de uso)
+-Analizar y evaluar redimiento de los sistemas existentes.
+-Crear planes de cambios basados en los requeriemientos analizados.
+-Comprobar la funcionalidad del producto final.
+-Escribir manuales de usuario y documentación.
+-Deje saber manejo se lenguaje sql (generacion de reportes o analisis de inicidencias)
