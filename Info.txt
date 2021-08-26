@@ -12,3 +12,5 @@ Analista funcional
 -Comprobar la funcionalidad del producto final.
 -Escribir manuales de usuario y documentación.
 -Deje saber manejo se lenguaje sql (generacion de reportes o analisis de inicidencias)
+
+Esto es una prueba
